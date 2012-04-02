@@ -1,0 +1,1 @@
+Playground for Avdi's Object on Rails.
