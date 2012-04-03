@@ -1,1 +1,1 @@
-Playground for Avdi's Object on Rails.
+Playground for Avdi's Objects on Rails.
